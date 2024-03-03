@@ -98,6 +98,8 @@ git clone https://github.com/six2dez/reconftw
 cd reconftw/
 ./install.sh
 ./reconftw.sh -d target.com -r
+
+Full Using ReconFTW to setup https://github.com/six2dez/reconftw/wiki/1.-Post-Installation-Guide
 ```
 
 ## b) Docker Image 🐳 (3 options)
